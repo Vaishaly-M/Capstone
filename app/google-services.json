@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410981924282",
+    "project_id": "store-data-b2e58",
+    "storage_bucket": "store-data-b2e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410981924282:android:f4dc55a51f91a9ff26f183",
+        "android_client_info": {
+          "package_name": "com.example.storedata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqczEN5kTRY-NXQZF6m7TwA9NoppOlQWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
